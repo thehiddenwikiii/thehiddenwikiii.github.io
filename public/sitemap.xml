@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+
+  <url>
+    <loc>https://thehiddenwikiii.github.io/blog/</loc>
+    <lastmod>2025-11-30T20:00:00+07:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://thehiddenwikiii.github.io/</loc>
+    <lastmod>2025-11-30T20:00:00+07:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://thehiddenwikiii.github.io/blog/malwareanalysis-holactf-2025/</loc>
+    <lastmod>2025-11-30T20:00:00+07:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://thehiddenwikiii.github.io/blog/coconut-ascis-ctf-2022/</loc>
+    <lastmod>2022-10-19T20:00:00+07:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://thehiddenwikiii.github.io/blog/my-first-post/</loc>
+    <lastmod>2022-10-18T20:00:00+07:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+</urlset>

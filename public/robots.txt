@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://thehiddenwikiii.github.io/sitemap.xml

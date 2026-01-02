@@ -1,0 +1,40 @@
+disabled = false
+languageCode = "en"
+languageName = "English"
+weight = 1
+title = "Home"
+
+[params]
+  displayName = "EN"
+  isoCode = "en"
+  rtl = false
+  dateFormat = "2 January 2006"
+  # logo = "img/logo.png"
+  # secondaryLogo = "img/secondary-logo.png"
+  # description = "My awesome website"
+  # copyright = "Copy, _right?_ :thinking_face:"
+
+[params.author]
+   name = "MrEn1gma"
+#   email = "youremail@example.com"
+   image = "img/avatar.jpg"
+#   imageQuality = 96
+   headline = "Blog của chú Hải RE"
+   #bio = "Hello world, I am a Malware Reverse lover, currently I'm working as Threat Hunting so "
+   links = [
+#     { discord = "https://discord.gg/invitecode" },
+#     { dribbble = "https://dribbble.com/username" },
+     { facebook = "https://facebook.com/en1gmalware" },
+#     { github = "https://github.com/username" },
+#     { gitlab = "https://gitlab.com/username" },
+#     { hashnode = "https://username.hashnode.dev" },
+#     { instagram = "https://instagram.com/username" },
+#     { linkedin = "https://linkedin.com/in/username" },
+#     { patreon = "https://www.patreon.com/username" },
+#     { threads = "https://www.threads.net/@username" },
+#     { tiktok = "https://tiktok.com/@username" },
+#     { twitch = "https://twitch.tv/username" },
+     { x-twitter = "https://x.com/en1gmalware" }
+#     { youtube = "https://youtube.com/username" },
+#     { ko-fi = "https://ko-fi.com/username" },
+   ]
